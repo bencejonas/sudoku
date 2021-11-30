@@ -7,13 +7,13 @@ def ido(func):
     def wrapper(*args, **kwargs):
         start = datetime.now()
 
-        func(*args, **kwargs)
+        res = func(*args, **kwargs)
 
         end = datetime.now()
 
         print("Futási idő: ", end - start)
 
-        return func(*args, **kwargs)
+        return res
 
     return wrapper
 
