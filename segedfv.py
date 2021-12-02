@@ -2,7 +2,6 @@ import math
 import pulp as pl
 import random
 import itertools as it
-from datetime import datetime
 
 
 # segédfüggvények:
