@@ -5,4 +5,4 @@ A Sudoku megoldó Pulp-on alapszik úgy hogy csak k darab mezőt tudunk egyszerr
 Tartozik a programhoz még egy nehéz sudoku generáló amely ahhoz generál nehéz sudokut, hogy minél nagyobb k-ra lehessen csak megoldani (ahol k az egyszerre megjegyezhető mezők száma).
 
 
-A program felkerült Jupyternotebook és py fájlok formátumában is.
+A program felkerült Jupyternotebook és py fájlok formátumában is és mellé néhány Sudoku amin lehet próbálgatni a futásokat.
